@@ -1,7 +1,7 @@
 # Sensitive-converter
 
 ## Other languages:
-[Simplified](/README_CN.md) [English](/README_EN.md)
+[简体中文](/README_CN.md) [English](/README_EN.md)
   
 ## Purpose of this project.
 
