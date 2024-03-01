@@ -1,5 +1,8 @@
 # Sensitive-converter
 
+## 其他語言：
+[简体](/README_CN.md) [English](/README_EN.md)
+
 ## 本項目的目的:
 
 - 初次使用Python來製作圖形界面的程序
