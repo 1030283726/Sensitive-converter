@@ -3,8 +3,6 @@
 ## Other languages:
 [Simplified](/README_CN.md) [English](/README_EN.md)
   
-(Traslated by DeepL)
-
 ## Purpose of this project.
 
 - First time using Python to create a GUI program.
