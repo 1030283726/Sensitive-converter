@@ -30,7 +30,7 @@ That's why I created this tool just for myself.
 
 The current window size is locked at 400x250 and is not adjustable.
 and is forced to be the frontmost window.  
-may (?) be changed in the future will be changed in the future.
+may (?) be i would update in future.
 
 ### Functionality:
 ### Convert sensitivity from `CS2, Valorant` to `Overwatch2, CS2, Valorant` (may be added in the future).
