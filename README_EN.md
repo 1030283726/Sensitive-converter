@@ -24,7 +24,7 @@ That's why I created this tool just for myself.
 
 ## Preview:
 
-![Sample](/src/screenshot.png)
+![Sample](/screenshot.png)
 
 ## Note:
 
