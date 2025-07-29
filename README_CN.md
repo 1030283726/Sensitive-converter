@@ -24,7 +24,7 @@
 
 ## 预览：
 
-![Sample](/src/screenshot.png)
+![Sample](/screenshot.png)
 
 ## 注意：
 
