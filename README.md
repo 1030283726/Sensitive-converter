@@ -1,7 +1,7 @@
 # Sensitive-converter
 
 ## 其他語言：
-[繁体中文](/README_CN.md)  [English](/README_EN.md)
+[简体中文](/README_CN.md)  [English](/README_EN.md)
 
 ## 本項目的目的:
 
